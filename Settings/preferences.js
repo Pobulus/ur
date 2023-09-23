@@ -1,1 +1,1 @@
-{"color":0,"language":0,"sound":1}
+{"color":0,"language":2,"sound":1}
