@@ -1,0 +1,1 @@
+{"currentPlayer":"player2","diceState":5,"player1-pieces":[0,0,0,0,0,0,2],"player2-pieces":[0,0,0,0,0,0,3],"rolled":false,"started":true}

@@ -1,0 +1,31 @@
+{
+    "font"
+:
+    "Resources/Cuneiform.ttf",
+        "settings"
+:
+    "𒁾",
+        "play"
+:
+    "𒂊𒉈𒁲",
+        "sound"
+:
+    "𒁍𒃫𒁀𒀜",
+        "color"
+:
+    "𒁈",
+        "language"
+:
+    "𒅴𒁝",
+        "quitPrompt"
+:
+    "𒋼𒀀",
+        "yes"
+:
+    "𒀝",
+        "no"
+:
+    "𒈍"
+
+
+}
