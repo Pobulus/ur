@@ -26,3 +26,7 @@ To enter the last space, the number has to be exact.
 Click on the dice to roll them, then hover your mouse the piece you want to move, this will show you where it will land. If you wish to move the piece, click on it.
 The current phase of the turn is represented by the icon in the lower left corner. It shows either the tetrahedronal dice or a piece, in the color of the current player. 
 
+
+## Credits
+Paweł Chmielewski - Programming, Graphics, Polish translation 
+Mykyta Shemechko - UI design, Ukrainian translation, Sumerian translation
