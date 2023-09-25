@@ -29,4 +29,5 @@ The current phase of the turn is represented by the icon in the lower left corne
 
 ## Credits
 Paweł Chmielewski - Programming, Graphics, Polish translation 
+
 Mykyta Shemechko - UI design, Ukrainian translation, Sumerian translation
