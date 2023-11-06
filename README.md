@@ -30,4 +30,4 @@ The current phase of the turn is represented by the icon in the lower left corne
 ## Credits
 Paweł Chmielewski - Programming, Graphics, Polish translation 
 
-Mykyta Shemechko @Luck9r- UI design, Ukrainian translation, Sumerian translation
+[Mykyta Shemechko](https://github.com/Luck9r) - UI design, Ukrainian translation, Sumerian translation
